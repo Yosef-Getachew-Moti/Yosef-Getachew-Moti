@@ -21,3 +21,6 @@ I am a dedicated student from Adama, Ethiopia, transitioning from AI and Web Dev
 ---
 *“Clean code is the first line of defense.”*
 ![Snake animation](https://raw.githubusercontent.com/YosefGetachew/YosefGetachew/output/github-snake.svg)
+### 📊 My GitHub Impact
+![Commits](https://img.shields.io/badge/Commits-Active-green?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
